@@ -1,7 +1,6 @@
-# py_project_LibrarySystem
-Python Project Code for "Python Programming for Beginners (1002) (Dr. Alexander VASILYEV) [Semester 1 of 2024-2025]"
+_Python Project Code for "Python Programming for Beginners (1002) (Dr. Alexander VASILYEV) [Semester 1 of 2024-2025]"_
 
-## Personal Info
+_personal_info_
 
 `student_name = "Siqi GUO"`
 `student_ID = "2330006046"`
